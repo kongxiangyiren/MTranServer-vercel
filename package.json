@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "mtranserver": "4.0.33"
+  }
+}
